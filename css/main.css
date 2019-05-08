@@ -182,3 +182,18 @@ img {
     float: left;
     margin-right: 10px;
 }
+
+/*cat cat-promote */
+
+.cat-promote .title:before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 5px;
+    height: 25px;
+    background: #000;
+    margin-right: 10px;
+}
+.cat-promote .title {
+    font-size: 22px;
+}
