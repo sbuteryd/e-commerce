@@ -129,9 +129,13 @@ a {
     background: #ce1829;
 }
 /*购物车*/
+.header .cart  {
+    text-align: center;
+}
 .header .cart a {
-    float: left;
+    float: right;
     padding: 10px;
     background: #fff;
     border: 2px solid #eee;
+    width: 80%;
 }
