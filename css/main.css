@@ -102,6 +102,15 @@ a {
     border: 2px solid #dd182b;
 }
 
-.header .serch-bar input {
+.header .serch-bar input,
+.header .serch-bar button{
     border: 0;
+    padding: 10px;
 }
+.header .serch-bar input {
+    width: 80%;
+}
+.header .serch-bar button {
+    width: 20%;
+}
+
