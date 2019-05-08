@@ -130,6 +130,7 @@ a {
 }
 /*购物车*/
 .header .cart a {
+    float: left;
     padding: 10px;
     background: #fff;
     border: 2px solid #eee;
