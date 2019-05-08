@@ -79,3 +79,7 @@ a {
 .top-nav {
     background: #eee;
 }
+
+.top-nav .item {
+    padding: 6px 16px;
+}
