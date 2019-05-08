@@ -91,7 +91,9 @@ a {
 }
 
 /*header css*/
-
+.header {
+    padding: 20px 0;
+}
 .header .logo {
     font-size: 30px;
 }
