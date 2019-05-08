@@ -160,3 +160,15 @@ img {
 .main-promote .cat .item:hover {
     background: rgba(0,0,0,0.1);
 }
+
+.main-promote .info {
+    padding: 10px;
+}
+.main-promote .info .avatar {
+    width: 50px;
+    height: 50px;
+    background: #777;
+    border-radius: 50%;
+    float: left;
+    margin-right: 10px;
+}
