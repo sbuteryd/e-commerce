@@ -129,7 +129,7 @@ a {
     background: #ce1829;
 }
 /*购物车*/
-.header .cart {
+.header .cart a {
     padding: 10px;
     background: #fff;
     border: 2px solid #eee;
