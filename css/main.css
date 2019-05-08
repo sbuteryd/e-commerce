@@ -164,6 +164,7 @@ img {
 .main-promote .info {
     padding: 10px;
     line-height: 50px;
+    background: #fff;
 }
 .main-promote .info .avatar {
     width: 50px;
