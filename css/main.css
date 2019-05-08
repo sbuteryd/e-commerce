@@ -123,3 +123,6 @@ a {
     color: #fff;
 }
 
+.header .serch-bar button:hover {
+    background: #ce1829;
+}
