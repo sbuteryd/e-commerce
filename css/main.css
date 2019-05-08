@@ -11,3 +11,10 @@
 .fr {
     float: right;
 }
+
+.clear-float:after,
+.clear-float:before{
+    content: "";
+    display: block;
+    clear: both;
+}
