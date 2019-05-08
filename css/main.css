@@ -152,3 +152,6 @@ a {
 .main-promote .cat .item {
     padding: 14px 20px;
 }
+.main-promote .cat .item:hover {
+    background: rgba(0,0,0,0.1);
+}
