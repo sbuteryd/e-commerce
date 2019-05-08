@@ -141,3 +141,10 @@ a {
     width: 80%;
     color: #dd182b;
 }
+
+/*主促销区域 */
+
+.main-promote .cat {
+    background: #6e6568;
+    color:#fff ;
+}
