@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+body {
+    font-size: 14px;
+    color: #444;
+}
+
 .container {
     display: block;
     max-width: 1080px;
