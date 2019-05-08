@@ -165,6 +165,7 @@ img {
 .main-promote .info {
     padding: 10px;
     background: #fff;
+    color: #888;
 }
 .main-promote .info > * {
     margin-bottom: 10px;
