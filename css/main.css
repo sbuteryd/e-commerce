@@ -97,3 +97,7 @@ a {
 .header .logo {
     font-size: 30px;
 }
+
+.header .serch-bar {
+    border: 2px solid #dd182b;
+}
