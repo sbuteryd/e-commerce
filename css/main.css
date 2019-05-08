@@ -89,3 +89,9 @@ a {
 .top-nav .item:hover {
     color: #333;
 }
+
+/*header css*/
+
+.header .logo {
+    font-size: 30px;
+}
